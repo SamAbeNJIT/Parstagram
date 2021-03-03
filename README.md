@@ -24,8 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/a/cggrulo' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="SSGc5lx"><a href="https://imgur.com/SSGc5lx">View post</a></blockquote>
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Open-source libraries used
