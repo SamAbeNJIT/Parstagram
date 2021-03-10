@@ -1,31 +1,23 @@
-# Project 3 - Parsestagram
+# Project 3 - Parsetagram
 
-Parsestagram is a photo sharing app similar to Instagram but using Parse as its backend.
+Parsestagrarm is a photo sharing app similar to Instagram but using Parse as its backend.
 
-Time spent: 5 hours spent in total
+Time spent: 4 hours spent in total
 
 ## User Stories
 
 The following **required** functionality is completed:
 
-- [X] User can sign up to create a new account using Parse authentication.
-- [X] User can log in and log out of his or her account.
-- [X] The current signed in user is persisted across app restarts.
-- [X] User can take a photo, add a caption, and post it to "Instagram".
-
-The following **optional** features are implemented:
-
-- [ ] User sees app icon in home screen and styled bottom navigation view
-- [ ] Style the feed to look like the real Instagram feed.
-- [ ] After the user submits a new post, show an indeterminate progress bar while the post is being uploaded to Parse.
-
+- [X] User can view the last 20 posts submitted to "Instagram".
+- [X] The user should switch between different tabs - viewing all posts (feed view), compose (capture photos form camera) and profile tabs (posts made) using fragments and a Bottom Navigation View. (2 points)
+- [X] User can pull to refresh the last 20 posts submitted to "Instagram".
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="SSGc5lx"><a href="https://imgur.com/SSGc5lx">View post</a></blockquote>
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/Z1pIKqJ"  ><a href="//imgur.com/a/Z1pIKqJ">Parsestagram2</a></blockquote>
+
 
 ## Open-source libraries used
 
@@ -34,7 +26,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Sam Abraham]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
